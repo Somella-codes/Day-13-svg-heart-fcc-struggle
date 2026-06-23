@@ -13,6 +13,10 @@ FCC’s test is strict about 3 things:
 2. No `xmlns` attribute on `<svg>`
 3. `fill="red"` must be on `<path>` not `<svg>`
 
+## Failed Attempt Screenshot
+This is what FCC kept showing me:
+![FCC Error Screenshot](fc)
+
 **Lesson learned:** 
 Coding is 20% writing logic, 80% debugging invisible syntax.
 
