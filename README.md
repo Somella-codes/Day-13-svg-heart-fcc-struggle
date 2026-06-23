@@ -16,6 +16,7 @@ FCC’s test is strict about 3 things:
 ## Failed Attempt Screenshot
 This is what FCC kept showing me:
 ![FCC Error Screenshot](Screenshot_20260623_193243_Samsung%20Internet.jpg)
+![FCC Error Screenshot]()
 
 **Lesson learned:** 
 Coding is 20% writing logic, 80% debugging invisible syntax.
