@@ -1,2 +1,22 @@
 # Day-13-svg-heart-fcc-struggle
-Spent hours debugging freeCodeCamp's strict syntax rules. Lesson: one line break can break your code. Heart icon + notes included.`
+
+**Challenge:** Draw a heart using SVG `path` element.
+
+**What happened:**
+- Wrote the exact code FCC provided
+- Error: "You should have a `d` attribute on your path element"
+- Reality: The `d` attribute was there the whole time
+
+**The real bug:** 
+FCC’s test is strict about 3 things:
+1. No line breaks inside `d="..."`
+2. No `xmlns` attribute on `<svg>`
+3. `fill="red"` must be on `<path>` not `<svg>`
+
+**Lesson learned:** 
+Coding is 20% writing logic, 80% debugging invisible syntax.
+
+Computers don’t care about effort. They care about precision.
+
+
+#LearnToCode #WebDev
